@@ -1,0 +1,63 @@
+
+[
+  {
+    "text": "Everyone is talking about AI replacing developers.\n\nBut here's what I think they're missing.\n\nAI won't replace developers who know how to solve problems. It will replace developers who only know how to write code without understanding why they're writing it.\n\nThe real skill in 2026 isn't memorizing syntax.\nIt's asking better questions, understanding systems, and knowing when AI is wrong.\n\nLearn to build, not just to code.\n\nWhat do you think?",
+    "engagement": 2450
+  },
+  {
+    "text": "Stop consuming 10 hours of productivity content every week.\n\nStart implementing just ONE idea.\n\nYou don't need another video about waking up at 5 AM.\nYou don't need another productivity app.\nYou don't need a perfect Notion dashboard.\n\nYou need consistency.\n\nRead less about getting better.\nSpend more time actually getting better.\n\nThat's the difference between looking productive and being productive.",
+    "engagement": 1820
+  },
+  {
+    "text": "I tested 7 AI tools so you don't have to.\n\nHere's what actually impressed me:\n\n1. ChatGPT - Great for reasoning and brainstorming.\n2. Perplexity - Useful for research with sources.\n3. NotebookLM - Amazing for understanding documents.\n4. Cursor - Speeds up development workflows.\n5. Gamma - Creates presentations quickly.\n6. Make - Helps automate repetitive workflows.\n7. Claude - Strong for writing and coding tasks.\n\nBut here's the catch:\n\nHaving 20 AI subscriptions won't make you productive.\nKnowing how to use 2 tools properly might.\n\nWhich AI tool is part of your daily workflow?",
+    "engagement": 3680
+  },
+  {
+    "text": "Unpopular opinion: Your personal brand is not your follower count.\n\nI've seen creators with 500 followers generate more meaningful opportunities than accounts with 50K followers.\n\nWhy?\n\nBecause building a personal brand is about trust, not vanity metrics.\n\nShare what you know.\nDocument what you learn.\nHelp people solve real problems.\nBe consistent even when nobody is watching.\n\nFollowers are an outcome.\nValue is the strategy.\n\nAgree or disagree?",
+    "engagement": 4210
+  },
+  {
+    "text": "A simple framework to write better LinkedIn posts:\n\nHOOK → Make people stop scrolling.\n\nSTORY → Give them a reason to keep reading.\n\nVALUE → Teach something useful.\n\nTAKEAWAY → Leave them with one memorable idea.\n\nQUESTION → Invite people into the conversation.\n\nYou don't need complicated vocabulary or fancy writing.\n\nYou need clarity, relatability, and something worth sharing.\n\nSave this framework for your next post.",
+    "engagement": 2940
+  },
+  {
+    "text": "The biggest mistake beginners make while learning programming?\n\nTrying to learn everything at once.\n\nPython today.\nReact tomorrow.\nDocker next week.\nKubernetes after that.\n\nAnd somehow, after six months, they still can't build a complete project.\n\nHere's a better approach:\n\n1. Pick one language.\n2. Understand the fundamentals.\n3. Build a small project.\n4. Break it.\n5. Fix it.\n6. Repeat.\n\nDepth before breadth.\n\nYour first working project teaches more than 20 unfinished tutorials.",
+    "engagement": 1560
+  },
+  {
+    "text": "Nobody talks enough about the boring side of being a content creator.\n\nWriting when you have no ideas.\nEditing when you're tired.\nResearching when a topic seems confusing.\nPosting when your last post got 12 likes.\n\nThe internet shows you viral moments.\nIt rarely shows you the 100 posts that came before them.\n\nConsistency isn't glamorous.\nBut it's what builds the foundation.\n\nKeep creating.",
+    "engagement": 5120
+  },
+  {
+    "text": "3 lessons I learned after experimenting with automation:\n\n1. Automate repetitive tasks, not broken processes.\n\n2. Human approval is important when an action has real consequences.\n\n3. Always build error handling. The happy path isn't the only path.\n\nAutomation isn't just connecting APIs and adding AI.\nIt's designing reliable workflows.\n\nA good automation saves time.\nA great automation also prevents mistakes.\n\nWhat's one task you wish you could automate?",
+    "engagement": 2110
+  },
+  {
+    "text": "Hot take: Not every business needs an AI agent.\n\nSometimes a simple Python script is enough.\nSometimes an API integration solves the problem.\nSometimes a traditional rule-based workflow is more reliable.\n\nWe should stop adding AI just because it's trending.\n\nStart with the problem.\nUnderstand the workflow.\nChoose the simplest technology that solves it.\n\nTechnology should serve the problem, not the other way around.",
+    "engagement": 6350
+  },
+  {
+    "text": "Want to grow on LinkedIn without posting motivational quotes every day?\n\nTry these 5 content ideas:\n\nMonday: Share a lesson from something you learned.\nTuesday: Explain a tool or concept.\nWednesday: Share an unpopular opinion.\nThursday: Break down a real-world problem.\nFriday: Share resources that helped you.\n\nYou don't need to be an expert in everything.\n\nYou just need to share useful things with the people one step behind you.\n\nConsistency + usefulness = a strong starting point.",
+    "engagement": 3270
+  },
+  {
+    "text": "I don't think college teaches you everything you need for the tech industry.\n\nAnd that's okay.\n\nCollege gives you foundations.\nProjects give you practical experience.\nInternships expose you to real workflows.\nCommunities help you learn from others.\n\nYour learning doesn't end with a degree.\n\nThe best developers I know are still learning something new every week.\n\nStay curious. Stay humble. Keep building.",
+    "engagement": 1980
+  },
+  {
+    "text": "A thread on why most AI projects never make it to production:\n\n1. The team focuses on the model instead of the actual user problem.\n\n2. There is no evaluation strategy.\n\n3. Nobody considers latency and cost.\n\n4. The system has no fallback when the model fails.\n\n5. Security and data privacy are treated as afterthoughts.\n\nA successful AI product is much more than a clever prompt.\n\nIt's an entire engineering system.\n\nBuilding a demo is easy. Building something reliable is the real challenge.",
+    "engagement": 2890
+  },
+  {
+    "text": "Your content doesn't need to go viral to be successful.\n\nImagine this:\n\nYour post reaches 300 people.\n50 people genuinely read it.\n10 people learn something useful.\n2 people start a conversation with you.\n\nThat might be more valuable than 100K random impressions.\n\nStop judging every post by likes alone.\n\nMeasure conversations, trust, and opportunities too.",
+    "engagement": 4730
+  },
+  {
+    "text": "Things I wish I knew before starting with Generative AI:\n\n- Prompt engineering is useful, but context engineering matters too.\n- RAG doesn't automatically guarantee accurate answers.\n- More chunks don't always mean better retrieval.\n- LLM outputs need validation.\n- Model selection should consider cost, latency, and quality.\n- Evaluation is not optional.\n\nThe real challenge isn't making an LLM respond.\nIt's making it respond reliably.\n\nWhat was your biggest learning while building with LLMs?",
+    "engagement": 2410
+  },
+  {
+    "text": "A reminder for every creator who feels stuck:\n\nYour first 10 posts might be average.\nYour first 20 videos might get very few views.\nYour first 30 ideas might not work.\n\nThat's not failure.\nThat's feedback.\n\nEvery post improves your ability to communicate.\nEvery experiment teaches you about your audience.\nEvery mistake makes the next attempt better.\n\nDon't wait until you're perfect to start creating.\n\nCreate, learn, improve, repeat.",
+    "engagement": 5890
+  }
+]
